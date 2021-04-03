@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace P_work_2
+namespace Work
 {
     public class PlusAndDecuction
     {

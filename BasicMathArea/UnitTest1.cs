@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 using System.IO;
-using P_work_2;
+using Work;
 
 namespace BasicMathArea
 {

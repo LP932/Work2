@@ -1,5 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using P_work_2;
+using Work;
 using System;
 
 namespace SecondMathArea
